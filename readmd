@@ -56,7 +56,7 @@ To run this project locally, you need a web browser (Chrome, Firefox, Safari, et
 ```plaintext
 .
 ├── login.html        # login HTML file
-├── 4.html            # main HTML file
+├── index.html            # main HTML file
 ├── style.css         # CSS file for styling
 ├── login.js          # JavaScript file for login functionality
 ├── script.js         # JavaScript file for main page functionality
