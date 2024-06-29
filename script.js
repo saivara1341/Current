@@ -68,9 +68,9 @@ function isMobileDevice() {
     return (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1);
 }
 if (isMobileDevice()) {
-    createLetters(" ⟩ ASHOK ⟩ ASHOK", 124, 0, 'white' , 'forwards', 'set1');
+    createLetters(" ⟩ Udhay ⟩ Udhay", 124, 0, 'white' , 'forwards', 'set1');
 } else {
-    createLetters(" ⟩ ASHOK ⟩ ASHOK", 124, 0, 'white' , 'forwards','set1');
+    createLetters(" ⟩ Udhay ⟩ Udhay", 124, 0, 'white' , 'forwards','set1');
     createLetters(" ⟨ Happy Birthday ⟨ Happy Birthday ⟨ Happy Birthday", 200, 0, 'white', 'backwards','set2');
 }
 
